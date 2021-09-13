@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
-    siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
+    title: `太古小學作業電郵系統`,
+    description: `我們會在每個上課日通過電子郵件向您發送您孩子的作業`,
+    author: `povalab@gmail.com`,
+    siteUrl: `https://tpshw.povalab.com/`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
